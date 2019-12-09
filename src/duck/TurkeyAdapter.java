@@ -1,5 +1,6 @@
 package duck;
 
+// 실제는 가금류지만 DUCK 으로 변환
 public class TurkeyAdapter implements Duck {
     Turkey turkey;
 
